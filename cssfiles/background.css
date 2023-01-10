@@ -1,0 +1,11 @@
+.initialbg{
+background-image: url('../Images/pct1.jpeg');
+background-repreat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+backgrond-origin: content-box, padding-box;
+padding: 15% 0% 25% 15%;
+line-height: 2;
+font-style: italic;
+color: white;
+}

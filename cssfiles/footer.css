@@ -1,0 +1,14 @@
+.ftr1{
+background-color: black;
+color: white;
+text-align: left;
+font-size: 19px;
+line-height: 1.5;
+padding: 50px;
+padding-left: 100px;
+border: 3px solid black;
+}
+
+.ftr1 a:link{color: white;}
+.ftr1 a:visited{color: purple;}
+.ftr1 a:hover{color: grey;}

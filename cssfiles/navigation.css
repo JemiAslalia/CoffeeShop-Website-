@@ -1,0 +1,42 @@
+ul.nav1{
+list-style-type: none;
+max-width: 100%;
+padding: 14px 14px;
+color: white;
+overflow: hidden;
+border: 1px solid black;
+background-color: rgb(146,44,29);
+margin-bottom: 3px;
+border: 3px solid black;
+}
+
+li.l1{
+float: left;
+margin-left: 35%;
+}
+
+li.l1 a{
+display: block;
+color: white;
+font-size: 15pt;
+text-align: center;
+margin-top: 15%;
+padding: 20px 20px;
+text-decoration: none;
+}
+
+.active{
+background-color: rgb(132,48,3);
+}
+
+li.l1 a:hover{
+color: white;
+background-color: rgb(132,48,3);
+}
+
+.brandname{
+float: left;
+font-family: century, arial;
+font-size: 24pt;
+margin-left: 5%;
+}
