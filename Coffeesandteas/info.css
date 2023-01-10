@@ -1,0 +1,12 @@
+article{
+	background-image:url("images/background.jpg");
+	border:5px solid black;
+	border-radius:3px;
+	float:left;
+	height:323px;
+	width:300px;
+	margin:20px 40px 20px 70px;
+	font-size:20;
+    transform: rotateY(180deg);
+
+}
