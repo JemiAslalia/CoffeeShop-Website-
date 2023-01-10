@@ -1,0 +1,15 @@
+.btn1{
+font-family: times new roman, arial;
+font-weight: bolder;
+color: white;
+font-size: 20pt;
+background-color: rgb(146,44,29);
+border: none;
+padding: 10px 20px;
+float: left;
+}
+
+.btn1:hover{
+color: white;
+background-color: rgb(132,48,3);
+}
